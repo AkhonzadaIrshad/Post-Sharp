@@ -23,6 +23,7 @@ namespace PostSharpBasics
         [MethodStartAndStop]
         static void Main()
         {
+			Console.WriteLine("Helllo World");
         }
     }
 }
